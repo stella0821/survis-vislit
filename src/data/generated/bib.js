@@ -1,5 +1,5 @@
 ﻿const generatedBibEntries = {
-    "Beck2016Visual": {
+    "Firat2022": {
         "author": "Elif E. Firat and Alark Joshi and Robert S. Laramee",
         "doi": "10.1177/14738716221081831",
         "journal": "Information Visualization",
