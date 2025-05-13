@@ -40,6 +40,20 @@
         "volume": "55",
         "year": "2012"
     },
+    "Ologbosere2023": {
+        "author": "Oluwatosin Abiodun Ologbosere",
+        "doi": "10.29173/iq1082",
+        "img": "Ologbosere2023.png",
+        "journal": "IASSIST Quarterly",
+        "keywords": "data literacy, higher education, 21st century",
+        "number": "3-4",
+        "pages": "",
+        "title": "Data literacy and higher education in the 21st century",
+        "type": "article",
+        "url": "https://doi.org/10.29173/iq1082",
+        "volume": "47",
+        "year": "2023"
+    },
     "Tang2023": {
         "author": "Doudou Tang and Mingjie Chen and Xinhua Huang and Guicheng Zhang and Lin Zeng and Guangsen Zhang and Shangjie Wu and Yewei Wang",
         "doi": "10.1371/journal.pone.0294236",
@@ -67,5 +81,19 @@
         "url": "https://doi.org/10.21105/joss.03021",
         "volume": "6",
         "year": "2021"
+    },
+    "Yuan2020": {
+        "author": "Jun Yuan and Changjian Chen and Weikai Yang and Mengchen Liu and Jiazhi Xia and Shixia Liu",
+        "doi": "10.1007/s41095-020-0191-7",
+        "img": "Yuan2020.png",
+        "journal": "Computational Visual Media",
+        "keywords": "explainability, visual analytics, machine learning, survey, XAI, trust",
+        "number": "1",
+        "pages": "3--17",
+        "title": "A Survey of Visual Analytics Techniques for Machine Learning",
+        "type": "article",
+        "url": "https://doi.org/10.1007/s41095-020-0191-7",
+        "volume": "6",
+        "year": "2020"
     }
 };
