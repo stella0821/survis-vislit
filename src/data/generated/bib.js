@@ -1,4 +1,18 @@
 ﻿const generatedBibEntries = {
+    "Danisch2021": {
+        "author": "Simon Danisch and Julius Krumbiegel",
+        "doi": "10.21105/joss.03349",
+        "img": "Danisch2021.png",
+        "journal": "Journal of Open Source Software",
+        "keywords": "data visualization, Julia, high-performance computing, Makie",
+        "number": "65",
+        "pages": "3349",
+        "title": "Makie.jl: Flexible High-Performance Data Visualization for Julia",
+        "type": "article",
+        "url": "https://doi.org/10.21105/joss.03349",
+        "volume": "6",
+        "year": "2021"
+    },
     "Firat2022": {
         "author": "Elif E. Firat and Alark Joshi and Robert S. Laramee",
         "doi": "10.1177/14738716221081831",
@@ -25,5 +39,33 @@
         "type": "article",
         "volume": "55",
         "year": "2012"
+    },
+    "Tang2023": {
+        "author": "Doudou Tang and Mingjie Chen and Xinhua Huang and Guicheng Zhang and Lin Zeng and Guangsen Zhang and Shangjie Wu and Yewei Wang",
+        "doi": "10.1371/journal.pone.0294236",
+        "img": "Tang2023.png",
+        "journal": "PLOS ONE",
+        "keywords": "data visualization, online platform, SRplot, graphing tools",
+        "number": "11",
+        "pages": "e0294236",
+        "title": "SRplot: A Free Online Platform for Data Visualization and Graphing",
+        "type": "article",
+        "url": "https://doi.org/10.1371/journal.pone.0294236",
+        "volume": "18",
+        "year": "2023"
+    },
+    "Waskom2021": {
+        "author": "Michael L. Waskom",
+        "doi": "10.21105/joss.03021",
+        "img": "Waskom2021.png",
+        "journal": "Journal of Open Source Software",
+        "keywords": "data visualization, statistical graphics, Python, Seaborn",
+        "number": "60",
+        "pages": "3021",
+        "title": "Seaborn: Statistical Data Visualization",
+        "type": "article",
+        "url": "https://doi.org/10.21105/joss.03021",
+        "volume": "6",
+        "year": "2021"
     }
 };
