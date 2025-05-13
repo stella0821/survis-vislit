@@ -54,6 +54,27 @@
         "volume": "47",
         "year": "2023"
     },
+    "Pandey2023": {
+        "author": "Saugat Pandey and Alvitta Ottley",
+        "doi": "10.48550/arXiv.2304.07905",
+        "img": "Pandey2023.png",
+        "journal": "arXiv preprint arXiv:2304.07905",
+        "keywords": "visualization literacy, assessment, Mini-VLAT",
+        "title": "Mini-VLAT: A Short and Effective Measure of Visualization Literacy",
+        "type": "article",
+        "url": "https://arxiv.org/abs/2304.07905",
+        "year": "2023"
+    },
+    "Spiro2021": {
+        "author": "Lisa Spiro and Miaomiao Rimmer and Joseph E. Goetz and Amanda Thomas",
+        "img": "Spiro2021.png",
+        "institution": "Ithaka S+R",
+        "keywords": "data literacy, education, social sciences",
+        "title": "Fostering Data Literacy: Teaching with Quantitative Data in the Social Sciences",
+        "type": "techreport",
+        "url": "https://sr.ithaka.org/publications/fostering-data-literacy/",
+        "year": "2021"
+    },
     "Tang2023": {
         "author": "Doudou Tang and Mingjie Chen and Xinhua Huang and Guicheng Zhang and Lin Zeng and Guangsen Zhang and Shangjie Wu and Yewei Wang",
         "doi": "10.1371/journal.pone.0294236",
@@ -67,6 +88,17 @@
         "url": "https://doi.org/10.1371/journal.pone.0294236",
         "volume": "18",
         "year": "2023"
+    },
+    "Thayaparan2020": {
+        "author": "Mokanarangan Thayaparan and Marco Valentino and Andr\u00e9 Freitas",
+        "doi": "10.48550/arXiv.2010.00389",
+        "img": "Thayaparan2020.png",
+        "journal": "arXiv preprint arXiv:2010.00389",
+        "keywords": "explainability, machine reading comprehension, survey",
+        "title": "A Survey on Explainability in Machine Reading Comprehension",
+        "type": "article",
+        "url": "https://arxiv.org/abs/2010.00389",
+        "year": "2020"
     },
     "Waskom2021": {
         "author": "Michael L. Waskom",
