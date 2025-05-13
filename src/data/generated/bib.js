@@ -8,7 +8,7 @@
         "other": "visual_literacy, interaction, evaluation",
         "pages": "285--310",
         "title": "Interactive Visualization Literacy: The State-of-the-Art",
-        "type": "article survey",
+        "type": "survey",
         "volume": "21",
         "year": "2022"
     }
