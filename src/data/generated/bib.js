@@ -4,11 +4,12 @@
         "doi": "10.1177/14738716221081831",
         "img": "Firat2022.png",
         "journal": "Information Visualization",
+        "keywords": "survey, visual_literacy, interaction, evaluation",
         "number": "3",
         "other": "visual_literacy, interaction, evaluation",
         "pages": "285--310",
         "title": "Interactive Visualization Literacy: The State-of-the-Art",
-        "type": "survey",
+        "type": "article survey",
         "volume": "21",
         "year": "2022"
     }
