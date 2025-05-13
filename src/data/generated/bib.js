@@ -12,5 +12,18 @@
         "type": "article survey",
         "volume": "21",
         "year": "2022"
+    },
+    "Heer2012": {
+        "author": "Jeffrey Heer and Ben Shneiderman",
+        "doi": "10.1145/2133806.2133821",
+        "img": "Heer2012.png",
+        "journal": "Communications of the ACM",
+        "keywords": "interaction, visualization, visual analytics, user interface",
+        "number": "4",
+        "pages": "45--54",
+        "title": "Interactive Dynamics for Visual Analysis",
+        "type": "article",
+        "volume": "55",
+        "year": "2012"
     }
 };
